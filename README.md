@@ -114,7 +114,8 @@ Superstore-Sales-Analysis/
 
 ## Dashboard Preview
 
-> Add screenshots of your Power BI dashboard here.
+
+<img width="961" height="518" alt="Screenshot 2026-07-05 173552" src="https://github.com/user-attachments/assets/bb13a6e0-7ddc-4d36-93f7-f1fde9e776a7" />
 
 ---
 
