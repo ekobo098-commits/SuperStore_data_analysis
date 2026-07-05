@@ -100,18 +100,6 @@ Superstore-Sales-Analysis/
 ```
 
 ---
-
-## Future Improvements
-
-- Advanced SQL analysis using CTEs and Window Functions
-- Additional DAX measures
-- Drill-through pages
-- Dynamic tooltips
-- Power BI Service deployment
-- Performance optimization
-
----
-
 ## Dashboard Preview
 
 
